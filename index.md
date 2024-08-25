@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: Harrison Mohr
 ---
 <!-- ![Harrison](/harrison_headshot.png) -->
 <!-- ## About -->
