@@ -4,7 +4,7 @@ title: Harrison Mohr
 ---
 <!-- ![Harrison](/harrison_headshot.png) -->
 <!-- ## About -->
-Hi, I'm Harrison!
+Hi, I'm Harrison! !!!
 <br>
 <br>
 I graduated with a Master's in Computer Science from Illinois Institute of Technology in December, 2023. 
