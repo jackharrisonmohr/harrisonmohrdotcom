@@ -2,26 +2,19 @@
 layout: default
 title: LightSpeed Contact
 ---
-
-## About
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
-
-## About, Further
-This second section demonstrates spacing. CSS is kept to a minimum with minor styling
-for site colours and spacing. prism.js is used for code styling.    
+<!-- ![Harrison](/harrison_headshot.png) -->
+<!-- ## About -->
+Hi, I'm Harrison!
 <br>
-Here's a new paragraph for you.  
+<br>
+I graduated with a Master's in Computer Science from Illinois Institute of Technology in December, 2023. 
+<br>
+<br>
+As of August 2024, I'm working as a software engineer at the Unviversity of Houston Computational Biomedicine Lab. 
+<br>
+<br>
 
-## Features
-- Pagination
-    - Posts
-    - Categories
-- Posts
-- RSS
-- Syntax highlighting
-- Basic Mobile Support
-- SEO Plugin
+Reach out on [LinkedIn](https://www.linkedin.com/in/jack-harrison-m-4280b9a5/).
 
-## Contact
-Email me, [tom@tomjack.ca](mailto:tom@tomjack.ca).
+<!-- ## Contact
+Email me, [jackharrisonmohr[at]gmail.com](mailto:jackharrisonmohr@gmail.com). -->

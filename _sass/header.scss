@@ -10,3 +10,10 @@
 .header nav a {
   padding-right: 3px;
 }
+
+.profile-pic {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover; /* Keeps image within the container and maintains aspect ratio */
+}
